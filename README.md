@@ -30,8 +30,8 @@ in ECE and CS at CMU.
 
 ## Electives
 
-- 10-601
-- 11-411
+- [10-601](electives/10601.md)
+- [11-411](electives/11411.md)
 - 15-418
 - 15-424
 - 15-455

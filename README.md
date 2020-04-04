@@ -7,9 +7,9 @@ in ECE and CS at CMU.
 ## ECE Core
 
 - [18-100: Introduction to ECE](ece_core/18100.md)
-- 18-213
+- [18-213: Introduction to Computer Systems](ece_core/18213.md)
 - 18-220
-- 18-240
+- [18-240: Structure and Design of Digital Systems](ece_core/18240.md)
 - 18-290
 - 18-500
 

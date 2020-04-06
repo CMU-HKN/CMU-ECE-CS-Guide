@@ -19,7 +19,7 @@ in ECE and CS at CMU.
 - 15-150
 - 15-210
 - 15-213
-- 15-251
+- [15-251: Great Ideas in Theoretical Computer Science](cs_core/15251.md)
 - 15-451
 
 ## Math / Science Reqs
@@ -30,11 +30,11 @@ in ECE and CS at CMU.
 
 ## Electives
 
-- [10-601](electives/10601.md)
-- [11-411](electives/11411.md)
+- [10-601: Introduction to Machine Learning](electives/10601.md)
+- [11-411: Natural Language Processing](electives/11411.md)
 - 15-418
 - 15-424
-- 15-455
+- [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - 16-385
 - 18-341
 - 18-349

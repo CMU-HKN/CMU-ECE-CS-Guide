@@ -26,7 +26,8 @@ in ECE and CS at CMU.
 
 - 21-127
 - 21-241
-- 36-217
+- [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
+- 36-219
 
 ## Electives
 
@@ -36,6 +37,7 @@ in ECE and CS at CMU.
 - 15-424
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - 16-385
+- [17-214: Principles of Software Construction](electives/17214.md)
 - 18-341
 - 18-349
 - 18-447

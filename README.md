@@ -11,7 +11,7 @@ in ECE and CS at CMU.
 - 18-220
 - [18-240: Structure and Design of Digital Systems](ece_core/18240.md)
 - 18-290
-- 18-500
+- [18-500: ECE Design Experience](ece_core/18500.md)
 
 ## CS Core
 
@@ -38,6 +38,6 @@ in ECE and CS at CMU.
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - 16-385
 - [17-214: Principles of Software Construction](electives/17214.md)
-- 18-341
+- [18-341: Logic Design and Verification](electives/18341.md)
 - 18-349
 - 18-447

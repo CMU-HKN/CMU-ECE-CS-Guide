@@ -26,20 +26,21 @@ in ECE and CS at CMU.
 
 - 21-127
 - 21-241
-- [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 - 36-219
+- [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
+
 
 ## Electives
 
 - [10-601: Introduction to Machine Learning](electives/10601.md)
 - [11-411: Natural Language Processing](electives/11411.md)
+- [11-785: Introduction to Deep Learning](electives/11785.md)
 - 15-418
 - 15-424
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - 16-385
+- [16-720: Computer Vision](electives/16720.md)
 - [17-214: Principles of Software Construction](electives/17214.md)
 - [18-341: Logic Design and Verification](electives/18341.md)
 - 18-349
 - 18-447
-- [11-785: Introduction to Deep Learning](electives/11785.md)
-- [16-720: Computer Vision](electives/16720.md)

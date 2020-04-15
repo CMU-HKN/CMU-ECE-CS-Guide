@@ -41,3 +41,5 @@ in ECE and CS at CMU.
 - [18-341: Logic Design and Verification](electives/18341.md)
 - 18-349
 - 18-447
+- [11-785: Introduction to Deep Learning](electives/11785.md)
+- [16-720: Computer Vision](electives/16720.md)

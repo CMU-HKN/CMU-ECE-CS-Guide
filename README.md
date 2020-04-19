@@ -41,10 +41,12 @@ in ECE and CS at CMU.
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - 16-385
 - [16-720: Computer Vision](electives/16720.md)
+- [16-833: Robot Localization and Mapping](electives/16833.md)
 - [17-214: Principles of Software Construction](electives/17214.md)
 - [18-341: Logic Design and Verification](electives/18341.md)
 - 18-349
 - 18-447
 - [18-661: Introduction to Machine Learning for Engineers](electives/18661.md)
+- [18-793: Image and Video Processing](electives/18793.md)
 - [18-847F: Foundations of Cloud and Machine Learning Infrastructure](electives/18847F.md)
 - [18-898D: Graph Signal Processing and Geometric Learning](electives/18898D.md)

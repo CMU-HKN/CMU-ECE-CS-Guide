@@ -34,6 +34,7 @@ in ECE and CS at CMU.
 
 - [10-601: Introduction to Machine Learning](electives/10601.md)
 - [11-411: Natural Language Processing](electives/11411.md)
+- [11-755/18-797: Machine Learning and Signal Processing](electives/11755.md)
 - [11-785: Introduction to Deep Learning](electives/11785.md)
 - 15-418
 - 15-424
@@ -44,3 +45,6 @@ in ECE and CS at CMU.
 - [18-341: Logic Design and Verification](electives/18341.md)
 - 18-349
 - 18-447
+- [18-661: Introduction to Machine Learning for Engineers](electives/18661.md)
+- [18-847F: Foundations of Cloud and Machine Learning Infrastructure](electives/18847F.md)
+- [18-898D: Graph Signal Processing and Geometric Learning](electives/18898D.md)

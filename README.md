@@ -38,6 +38,7 @@ in ECE and CS at CMU.
 - [11-785: Introduction to Deep Learning](electives/11785.md)
 - 15-418
 - 15-424
+- [15-440: Distributed Systems](electives/15440.md)
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - 16-385
 - [16-720: Computer Vision](electives/16720.md)

@@ -26,7 +26,7 @@ in ECE and CS at CMU.
 
 - 21-127
 - 21-241
-- [36-219: Probability Theory and Random Processes](math_science_reqs/36219)
+- [36-219: Probability Theory and Random Processes](math_science_reqs/36219.md)
 - [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 
 

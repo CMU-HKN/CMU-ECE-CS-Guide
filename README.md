@@ -15,7 +15,7 @@ in ECE and CS at CMU.
 
 ## CS Core
 
-- 15-122
+- [15-122: Principles of Imperative Computation](cs_core/15W122.md)
 - 15-150
 - 15-210
 - 15-213
@@ -26,7 +26,7 @@ in ECE and CS at CMU.
 
 - 21-127
 - 21-241
-- 36-219
+- [36-219: Probability Theory and Random Processes](math_science_reqs/36219)
 - [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 
 

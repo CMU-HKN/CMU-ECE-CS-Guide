@@ -15,7 +15,7 @@ in ECE and CS at CMU.
 
 ## CS Core
 
-- [15-122: Principles of Imperative Computation](cs_core/15W122.md)
+- [15-122: Principles of Imperative Computation](cs_core/15122.md)
 - 15-150
 - 15-210
 - 15-213

@@ -18,7 +18,7 @@ in ECE and CS at CMU.
 - [15-122: Principles of Imperative Computation](cs_core/15122.md)
 - 15-150
 - 15-210
-- 15-213
+- [15-213: Introduction to Computer Systems](ece_core/18213.md)
 - [15-251: Great Ideas in Theoretical Computer Science](cs_core/15251.md)
 - 15-451
 

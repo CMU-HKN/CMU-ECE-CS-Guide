@@ -29,7 +29,6 @@ in ECE and CS at CMU.
 - [36-219: Probability Theory and Random Processes](math_science_reqs/36219.md)
 - [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 
-
 ## Electives
 
 - [10-601: Introduction to Machine Learning](electives/10601.md)
@@ -44,6 +43,7 @@ in ECE and CS at CMU.
 - [16-720: Computer Vision](electives/16720.md)
 - [16-833: Robot Localization and Mapping](electives/16833.md)
 - [17-214: Principles of Software Construction](electives/17214.md)
+- [17-437: Web Application Development](electives/17437.md)
 - [18-341: Logic Design and Verification](electives/18341.md)
 - 18-349
 - 18-447

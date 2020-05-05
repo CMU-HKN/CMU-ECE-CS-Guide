@@ -25,7 +25,7 @@ in ECE and CS at CMU.
 ## Math / Science Reqs
 
 - [21-127: Concepts of Mathematics](math_science_reqs/21127.md)
-- 21-241
+- [21-241: Matrix Algebra](math_science_reqs/21241.md)
 - [36-219: Probability Theory and Random Processes](math_science_reqs/36219.md)
 - [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 

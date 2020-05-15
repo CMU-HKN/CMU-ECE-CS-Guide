@@ -39,7 +39,7 @@ in ECE and CS at CMU.
 - 15-424
 - [15-440: Distributed Systems](electives/15440.md)
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
-- 16-385
+- [16-385: Computer Vision](electives/16385.md)
 - [16-720: Computer Vision](electives/16720.md)
 - [16-833: Robot Localization and Mapping](electives/16833.md)
 - [17-214: Principles of Software Construction](electives/17214.md)

@@ -35,18 +35,19 @@ in ECE and CS at CMU.
 - [11-411: Natural Language Processing](electives/11411.md)
 - [11-755/18-797: Machine Learning and Signal Processing](electives/11755.md)
 - [11-785: Introduction to Deep Learning](electives/11785.md)
-- 15-418
-- 15-424
+- 15-410
+- [15-418: Parallel Computer Architecture and Programming](electives/15418.md)
+- [15-424: Logical Foundations of Cyber-Physical Systems](electives/15424.md)
 - [15-440: Distributed Systems](electives/15440.md)
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
-- 16-385
+- [16-385: Computer Vision](electives/16385.md)
 - [16-720: Computer Vision](electives/16720.md)
 - [16-833: Robot Localization and Mapping](electives/16833.md)
 - [17-214: Principles of Software Construction](electives/17214.md)
 - [17-437: Web Application Development](electives/17437.md)
 - [18-341: Logic Design and Verification](electives/18341.md)
-- 18-349
-- 18-447
+- [18-349: Introduction to Embedded Systems](electives/18349.md)
+- [18-447: Introduction to Computer Architecture](electives/18447.md)
 - [18-661: Introduction to Machine Learning for Engineers](electives/18661.md)
 - [18-793: Image and Video Processing](electives/18793.md)
 - [18-847F: Foundations of Cloud and Machine Learning Infrastructure](electives/18847F.md)

@@ -20,7 +20,7 @@ in ECE and CS at CMU.
 - [15-210: Parallel and Sequential Data Structures and Algorithms](cs_core/15210.md)
 - [15-213: Introduction to Computer Systems](ece_core/18213.md)
 - [15-251: Great Ideas in Theoretical Computer Science](cs_core/15251.md)
-- 15-451
+- [15-451: Design and Analysis of Algorithms](cs_core/15451.md)
 
 ## Math / Science Reqs
 

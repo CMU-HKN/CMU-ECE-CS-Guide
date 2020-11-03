@@ -12,3 +12,17 @@ Some guidelines:
  - Try to avoid saying things about professors, since they will change throughout the years
  - Also you can get in trouble for saying the wrong thing about professors, so best to avoid
  - Do not encourage cheating. If you must, you can always write problems of your own
+
+## How to Contribute
+
+0. Ask for permissions to contribute to the repo. Any of the admins should be able to add you to the repo.
+1. Branch from `master`, comitting directly to `master` is not allowed. To do this, run
+```
+git checkout -b new_branch_name
+```
+2. Make your changes, and make sure to add your new article to the table of contents. The format for the file is just 
+```
+folder/class_number.md
+```
+3. Notice we are using markdown, so feel free to use any markdown commands you like
+4. Once you're done, push your branch, and get it approved. Once it is approved, you can merge it to master.

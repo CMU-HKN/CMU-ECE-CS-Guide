@@ -16,13 +16,11 @@ Some guidelines:
 ## How to Contribute
 
 0. Ask for permissions to contribute to the repo. Any of the admins should be able to add you to the repo.
-1. Branch from `master`, comitting directly to `master` is not allowed. To do this, run
-```
-git checkout -b new_branch_name
-```
-2. Make your changes, and make sure to add your new article to the table of contents. The format for the file is just 
+1. Fork the repo, comitting directly to `master` is not allowed. To do this, use the Github UI to 
+2. Make your changes, and if your changes are for a new class, then add it to the table of contents, which is the `README.md` in the root directory. 
+The format for the file is just 
 ```
 folder/class_number.md
 ```
-3. Notice we are using markdown, so feel free to use any markdown commands you like
-4. Once you're done, push your branch, and get it approved. Once it is approved, you can merge it to master.
+3. **Please use markdown**, unless you have styling that is absolutely unsupported. In that case, you may consider creating a new folder in the repo with other assets, like images or PDFs.
+4. Once you're done, open a pull request from your branch to the master branch of this repo, and get it approved. Once it is approved, you can merge it to master.

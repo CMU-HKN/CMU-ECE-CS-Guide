@@ -15,7 +15,7 @@ Some guidelines:
 
 ## How to Contribute
 
-1. Fork the repo. Comitting directly to `master` is not allowed. To do this, use the Github UI to 
+1. Fork the repo. Comitting directly to `master` is not allowed. To do this, use the Github UI to create a fork (upper right hand corner for web)
 2. Make your changes, and if your changes are for a new class, then add it to the table of contents, which is the `README.md` in the root directory. 
 The format for the file is just 
 ```

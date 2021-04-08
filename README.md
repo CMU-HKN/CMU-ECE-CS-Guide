@@ -48,6 +48,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-349: Introduction to Embedded Systems](electives/18349.md)
 - [18-447: Introduction to Computer Architecture](electives/18447.md)
 - [18-661: Introduction to Machine Learning for Engineers](electives/18661.md)
+- [18-792: Advanced Digital Signal Processing](electives/18792.md)
 - [18-793: Image and Video Processing](electives/18793.md)
 - [18-847F: Foundations of Cloud and Machine Learning Infrastructure](electives/18847F.md)
 - [18-898D: Graph Signal Processing and Geometric Learning](electives/18898D.md)

@@ -23,6 +23,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 
 ## Math / Science Reqs
 
+- [18-202: Mathematical Foundations of Electrical Engineering](math_science_reqs/18202.md)
 - [21-127: Concepts of Mathematics](math_science_reqs/21127.md)
 - [21-241: Matrix Algebra](math_science_reqs/21241.md)
 - [36-219: Probability Theory and Random Processes](math_science_reqs/36219.md)

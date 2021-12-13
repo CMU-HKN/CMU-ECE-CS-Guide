@@ -75,7 +75,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [24-104: Maker Series: Intro to Modern Making](electives/24104.md)
 - [80-180: Nature of Language](electives/80180.md)
 
-## Electives
+## Research Papers
 
 - [Closed-loop Neural Stimulation with Real-time Spike Sorting](research_papers/Closed-loop_Neural_Stimulation.pdf)
 - [Exploring IoT Smart Cities](research_papers/IoT_Smart_Cities.pdf)

@@ -74,6 +74,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-898D: Graph Signal Processing and Geometric Learning](electives/18898D.md)
 - [24-104: Maker Series: Intro to Modern Making](electives/24104.md)
 - [80-180: Nature of Language](electives/80180.md)
+- [80-405: Game Theory](electives/80405.md)
 
 ## Research Papers
 

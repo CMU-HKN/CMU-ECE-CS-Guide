@@ -53,6 +53,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-330: Introduction to Computer Security](electives/18330.md)
 - [18-335/732: Secure Software System](electives/18335.md)
 - [18-341: Logic Design and Verification](electives/18341.md)
+- [18-344: Computer Systems and the Hardware-Software Interface](electives/18344.md)
 - [18-349: Introduction to Embedded Systems](electives/18349.md)
 - [18-447: Introduction to Computer Architecture](electives/18447.md)
 - [18-491: Digital Signal Processing](electives/18491.md)

@@ -11,7 +11,6 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-240: Structure and Design of Digital Systems](ece_core/18240.md)
 - [18-290: Signals and Systems](ece_core/18290.md)
 - [18-500: ECE Design Experience](ece_core/18500.md)
-- [18-614: Microelectromechanical Systems (MEMS)](ece_core/18614.md)
 
 ## CS Core
 
@@ -59,6 +58,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-349: Introduction to Embedded Systems](electives/18349.md)
 - [18-447: Introduction to Computer Architecture](electives/18447.md)
 - [18-491: Digital Signal Processing](electives/18491.md)
+- [18-614: Microelectromechanical Systems (MEMS)](electives/18614.md)
 - [18-640: Hardware Arithmetic for Machine Learning](electives/18640.md)
 - [18-652: Foundations of Software Engineering](electives/18652.md)
 - [18-661: Introduction to Machine Learning for Engineers](electives/18661.md)

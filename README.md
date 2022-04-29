@@ -61,6 +61,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-623: Analog Integrated Circuit Design](electives/18623.md)
 - [18-640: Hardware Arithmetic for Machine Learning](electives/18640.md)
 - [18-652: Foundations of Software Engineering](electives/18652.md)
+- [18-660: Optimization](electives/18660.md)
 - [18-661: Introduction to Machine Learning for Engineers](electives/18661.md)
 - [18-665: Advanced Probability & Statistics for Engineers](electives/18665.md)
 - [18-690: Introduction to Neuroscience for Engineers](electives/18690.md)

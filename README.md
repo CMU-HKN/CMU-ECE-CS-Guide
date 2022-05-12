@@ -58,6 +58,8 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-349: Introduction to Embedded Systems](electives/18349.md)
 - [18-447: Introduction to Computer Architecture](electives/18447.md)
 - [18-491: Digital Signal Processing](electives/18491.md)
+- [18-540: Rapid Prototyping of Computer Systems](electives/18540.md)
+- [18-578: Mechatronic Design](electives/18578.md)
 - [18-623: Analog Integrated Circuit Design](electives/18623.md)
 - [18-640: Hardware Arithmetic for Machine Learning](electives/18640.md)
 - [18-652: Foundations of Software Engineering](electives/18652.md)

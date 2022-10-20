@@ -69,6 +69,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-690: Introduction to Neuroscience for Engineers](electives/18690.md)
 - [18-698: Neural Signal Processing](electives/18698.md)
 - [18-723: RF IC Design and Implementation](electives/18723.md)
+- [18-741: Computer Networks](electives/18741.md)
 - [18-746: Storage Systems](electives/18746.md)
 - [18-747: How to Write Low Power Code for IoT](electives/18747.md)
 - [18-749: Building Reliable Distributed Systems](electives/18749.md)

@@ -29,6 +29,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [36-219: Probability Theory and Random Processes](math_science_reqs/36219.md)
 - [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 - [21-259: Calculus in Three Dimensions](math_science_reqs/21259.md)
+- [21-254: Linear Algebra and Vector Calculus for Engineers]((math_science_reqs/25254.md))
 
 ## Electives
 

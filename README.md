@@ -47,6 +47,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - [15-462: Computer Graphics](electives/15462.md)
 - [16-311: Introduction to Robotics](electives/16311.md)
+- [16-384: Robot Kinematics and Dynamics](electives/16384.md)
 - [16-385: Computer Vision](electives/16385.md)
 - [16-720: Computer Vision](electives/16720.md)
 - [16-833: Robot Localization and Mapping](electives/16833.md)

@@ -109,3 +109,4 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [SnapLoc: An Ultra-Fast UWB-Based Indoor Localization System for an Unlimited Number of Tags](research_papers/SnapLoc.pdf)
 - [Synthetic Sensors: Towards General-Purpose Sensing](research_papers/Synthetic_Sensors.pdf)
 - [TSM: Temporal Shift Module for Efficient Video Understanding](research_papers/TSM.pdf)
+- [Space Time Algebra: A Model for Neocortical Computation](research_papers/Space_Time_Algebra_Summary.pdf)

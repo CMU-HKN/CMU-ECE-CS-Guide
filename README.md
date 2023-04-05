@@ -52,6 +52,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [16-385: Computer Vision](electives/16385.md)
 - [16-664: Self Driving Cars: Perception & Control](electives/16664.md)
 - [16-720: Computer Vision](electives/16720.md)
+- [16-745: Optimal Control and Reinforcement Learning](electives/16745.md)
 - [16-833: Robot Localization and Mapping](electives/16833.md)
 - [17-214: Principles of Software Construction](electives/17214.md)
 - [17-437: Web Application Development](electives/17437.md)

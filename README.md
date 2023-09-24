@@ -29,7 +29,8 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [36-219: Probability Theory and Random Processes](math_science_reqs/36219.md)
 - [36-225: Introduction to Probability Theory](math_science_reqs/36225.md)
 - [21-259: Calculus in Three Dimensions](math_science_reqs/21259.md)
-- [21-254: Linear Algebra and Vector Calculus for Engineers]((math_science_reqs/21254.md))
+- [21-254: Linear Algebra and Vector Calculus for Engineers](math_science_reqs/21254.md)
+- [21-260: Differential Equations](math_science_reqs/21260.md)
 
 ## Electives
 
@@ -47,8 +48,11 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [15-455: Undergraduate Complexity Theory](electives/15455.md)
 - [15-462: Computer Graphics](electives/15462.md)
 - [16-311: Introduction to Robotics](electives/16311.md)
+- [16-384: Robot Kinematics and Dynamics](electives/16384.md)
 - [16-385: Computer Vision](electives/16385.md)
+- [16-664: Self Driving Cars: Perception & Control](electives/16664.md)
 - [16-720: Computer Vision](electives/16720.md)
+- [16-745: Optimal Control and Reinforcement Learning](electives/16745.md)
 - [16-833: Robot Localization and Mapping](electives/16833.md)
 - [17-214: Principles of Software Construction](electives/17214.md)
 - [17-437: Web Application Development](electives/17437.md)
@@ -66,6 +70,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-540: Rapid Prototyping of Computer Systems](electives/18540.md)
 - [18-578: Mechatronic Design](electives/18578.md)
 - [18-623: Analog Integrated Circuit Design](electives/18623.md)
+- [18-624: Intro to Open-Source FPGA and ASIC Chip Design](https://github.com/brandon-joel-gonzalez/CMU-ECE-CS-Guide/blob/master/electives/18624.md)
 - [18-640: Hardware Arithmetic for Machine Learning](electives/18640.md)
 - [18-652: Foundations of Software Engineering](electives/18652.md)
 - [18-660: Optimization](electives/18660.md)
@@ -77,6 +82,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-729: Board-Level RF Systems for IoT](electives/18729.md)
 - [18-740: Modern Computer Architecture and Design](electives/18740.md)
 - [18-741: Computer Networks](electives/18741.md)
+- [18-742: Computer Architecture and Systems](electives/18742.md)
 - [18-746: Storage Systems](electives/18746.md)
 - [18-747: How to Write Low Power Code for IoT](electives/18747.md)
 - [18-749: Building Reliable Distributed Systems](electives/18749.md)

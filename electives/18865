@@ -1,0 +1,40 @@
+# 18-865: Power Electronics for Electric Utility Systems
+
+| Category | Difficulty |
+|:-:       | :-:        |
+| HW       | 5/10       |
+| Project  | 6/10       |
+| Exam     | 6/10       |
+
+This is one of the few power electronics classes taught at CMU, the other being:
+18-681 Power Electronics.  The information below is in reference to class taken in the 2023-2024 time frame.
+
+## What to expect
+
+- **Lecture:** As with many of the power and energy classes at CMU, this class is often taught from the Kigali, Rwanda campus.  Pittsburgh (or other campus) students will remote into the class through Zoom.   
+- **HW:** In the end, the homework isn’t overly difficult.  However, sometimes the questions can feel somewhat ambiguous.  Some students struggled to interpret which assumptions may need to be made in some problems.  Homework was due on about a bi-weekly cadence.  There is time to ask for clarifications.  Homework is largely hand calculations, and or written answers.  Familiarity with graphing programs such as MATLAB or Desmos will come in handy.  
+- **Exam:** There was only one exam, which was the final exam.  The exam covers a wide range of the topics covered during the semester.  There are usually ~7 questions, of which the student can choose the ~5 that they feel the most confident in.
+- **Project:**  There is one “final” project due at the end of the semester.  Although, the professor does encourage you to start early as the final project pulls together several topics from the class, and uses SW tools that may be new to many students.  The instructor usually pairs students for the final project, although each student is required to do their own work and submit their own solutions.  It seemed that pairings were intentionally made to pair students from separate campuses (one Pittsburgh student paired with one Kigali student).
+
+
+## How to do well
+
+- Start HW early as this will give you time to ask clarifying questions for any ambiguous aspects of the homework.
+- Start using the software tools (SIMULINK) early as there can be a bit of a learning curve.
+- Feel free to ask clarifying questions during lecture.
+- Being comfortable with general AC power transmission and power electronics in general will make the class go a bit easier.  That said, being an ECE isn’t a requirement.  Due to the subject matter, there are often civil engineers taking the class.
+- As it is an online class, the lectures are usually recorded.  Accessing these proved invaluable when doing the homework as much of the homework comes from lecture.
+
+
+
+## What to watch out for
+
+- Some students generally don’t like remote classes.  For some, something is lost when not having face to face interactions with the professor and other students.
+- Some students struggled with the “messy” nature of the lecture and lecture slides.
+- The texts that are listed in the syllabus are rarely used, and 99% of the class comes from lecture and lecture slides.
+-Instructor office hours are in Rwanda time.  This makes for limited access to the instructor outside of the few office hours/week. That said, the instructor does respond to WhatsApp and does try to make office hours align to Pittsburgh time zone.
+
+## Resources
+- https://www.mathworks.com/products/simulink.html
+
+- https://www.desmos.com/

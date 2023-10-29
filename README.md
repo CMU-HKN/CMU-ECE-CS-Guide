@@ -94,6 +94,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-843: Mobile and Pervasive Computing](electives/18843.md)
 - [18-847C: Data Center Computing](electives/18847.md)
 - [18-847F: Foundations of Cloud and Machine Learning Infrastructure](electives/18847F.md)
+- [18-865: Power Electronics for Electric Utility Systems](electives/18865.md)
 - [18-898D: Graph Signal Processing and Geometric Learning](electives/18898D.md)
 - [24-104: Maker Series: Intro to Modern Making](electives/24104.md)
 - [33-114: Physics of Musical Sound](electives/33114.md)

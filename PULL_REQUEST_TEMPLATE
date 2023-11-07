@@ -1,14 +1,15 @@
 # Summary of Changes
 
 - Please indicate the classes you are modifying:
-  - Added a new (elective) course: [18-631: Introduction to Information Security](/electives/18631.md)
+  - 18-100
+  - ...
 
 # Checklist:
 
-- [X] I have added my entries to the `README.md` table of contents in the root directory as links.
+- [ ] I have added my entries to the `README.md` table of contents in the root directory as links.
 
 Make sure that your contributions:
 
-- [X] Are accurate and will not mislead the reader
-- [X] Do not encourage or cause academic integrity violations
-- [X] Do not offend professors or unfairly criticize the university
+- [ ] Are accurate and will not mislead the reader
+- [ ] Do not encourage or cause academic integrity violations
+- [ ] Do not offend professors or unfairly criticize the university

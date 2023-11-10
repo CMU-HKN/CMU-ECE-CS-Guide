@@ -11,6 +11,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-240: Structure and Design of Digital Systems](ece_core/18240.md)
 - [18-290: Signals and Systems](ece_core/18290.md)
 - [18-500: ECE Design Experience](ece_core/18500.md)
+- [18-847: Special Topics in Computer Systems: Data Center Computing](ece_core/18847.md)
 
 ## CS Core
 

@@ -69,6 +69,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-491: Digital Signal Processing](electives/18491.md)
 - [18-540: Rapid Prototyping of Computer Systems](electives/18540.md)
 - [18-578: Mechatronic Design](electives/18578.md)
+- [18-602: Business Fundamentals](electives/18602.md)
 - [18-623: Analog Integrated Circuit Design](electives/18623.md)
 - [18-624: Intro to Open-Source FPGA and ASIC Chip Design](https://github.com/brandon-joel-gonzalez/CMU-ECE-CS-Guide/blob/master/electives/18624.md)
 - [18-631: Introduction to Information Security](electives/18631.md)

@@ -38,6 +38,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [10-605: Machine Learning with Large Datasets](electivs/10605.md)
 - [10-701: Introduction to Machine Learning (PhD)](electives/10701.md)
 - [11-411: Natural Language Processing](electives/11411.md)
+- [11-442/642/742: Search Engines](electives/11642.md)
 - [11-755/18-797: Machine Learning and Signal Processing](electives/11755.md)
 - [11-785: Introduction to Deep Learning](electives/11785.md)
 - [15-410: Operating Systems](electives/15410.md)

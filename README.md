@@ -101,6 +101,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-865: Power Electronics for Electric Utility Systems](electives/18865.md)
 - [18-898D: Graph Signal Processing and Geometric Learning](electives/18898D.md)
 - [24-104: Maker Series: Intro to Modern Making](electives/24104.md)
+- [24-784: Trustworthy Intelligent Autonomy](electives/24784.md)
 - [33-114: Physics of Musical Sound](electives/33114.md)
 - [33-120: Science and Science Fiction](electives/33120.md)
 - [57-173: Survey of Western Music History](electives/57173.md)

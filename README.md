@@ -81,6 +81,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [18-665: Advanced Probability & Statistics for Engineers](electives/18665.md)
 - [18-690: Introduction to Neuroscience for Engineers](electives/18690.md)
 - [18-698: Neural Signal Processing](electives/18698.md)
+- [18-721: Advanced Analog Integrated Circuits Design](electives/18721.md)
 - [18-723: RF IC Design and Implementation](electives/18723.md)
 - [18-729: Board-Level RF Systems for IoT](electives/18729.md)
 - [18-740: Modern Computer Architecture and Design](electives/18740.md)

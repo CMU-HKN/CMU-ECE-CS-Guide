@@ -108,6 +108,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [80-405: Game Theory](electives/80405.md)
 - [82-137: Chinese Calligraphy: Culture and Skils](electives/82137.md)
 - [82-208: Eastern Europe: Society and Culture](electives/82208.md)
+- [82-279: Anime - Visual Interplay between Japan and the World](electives/82279.md)
 
 ## Research Papers
 

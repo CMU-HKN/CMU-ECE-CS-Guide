@@ -41,6 +41,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [11-442/642/742: Search Engines](electives/11642.md)
 - [11-755/18-797: Machine Learning and Signal Processing](electives/11755.md)
 - [11-785: Introduction to Deep Learning](electives/11785.md)
+- [14-763/18-763: Systems and Toolchains for AI Engineers](electives/18763.md)
 - [15-410: Operating Systems](electives/15410.md)
 - [15-418: Parallel Computer Architecture and Programming](electives/15418.md)
 - [15-424: Logical Foundations of Cyber-Physical Systems](electives/15424.md)

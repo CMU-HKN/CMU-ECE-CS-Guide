@@ -59,6 +59,7 @@ expect from the core classes from the ECE and CS programs at CMU.
 - [17-214: Principles of Software Construction](electives/17214.md)
 - [17-437: Web Application Development](electives/17437.md)
 - [17-480: API Design and Implementation](electives/17480.md)
+- [18-300: Fundamentals of Electromagnetics](electives/18300.md)
 - [18-310: Fundamentals of Semiconductor Devices](electives/18310.md)
 - [18-320: Microelectronic Circuits](electives/18320.md)
 - [18-330: Introduction to Computer Security](electives/18330.md)

@@ -1,0 +1,19 @@
+{
+  "name": "cmu-ece-cs-guide",
+  "version": "1.0.0",
+  "description": "A student-written guide to ECE and CS courses at Carnegie Mellon University",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CMU-HKN/CMU-ECE-CS-Guide"
+  },
+  "license": "MIT"
+}
